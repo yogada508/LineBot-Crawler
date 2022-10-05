@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+db.sqlite3
+*.ipynb
+Procfile.windows
+.env
+.vscode
+static
+key
